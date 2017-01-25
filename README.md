@@ -1,6 +1,7 @@
-This is a Low-Budget Audio (pre)-Amplifier with an LM358 /LMV358
+#This is a Low-Budget Audio (pre)-Amplifier with an LM358 /LMV358
 
 Release Notes,
+
 •	The audio input signal on the left side of the schematics is where you connect the audio source.
 
 •	If you want to filter the low audio frequencies, use caps lower than 1uF, above 1uF it won’t make much of a difference. 
